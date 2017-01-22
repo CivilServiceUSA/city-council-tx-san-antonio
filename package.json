@@ -8,8 +8,8 @@
     "US",
     "United States",
     "City Council",
-    "New York",
-    "NY",
+    "San Antonio",
+    "TX",
     "data",
     "json",
     "csv",
@@ -23,13 +23,13 @@
     "map"
   ],
   "cityData": {
-    "state_code": "NY",
-    "city_name": "New York",
-    "city_population": "8550405",
-    "city_website": "http://www.nycgo.com",
+    "state_code": "TX",
+    "city_name": "San Antonio",
+    "city_population": "1469845",
+    "city_website": "https://www.sanantonio.gov",
     "public_records": "",
-    "latitude": "40.6643",
-    "longitude": "-73.9385"
+    "latitude": "29.4724",
+    "longitude": "-98.5251"
   },
   "main": "data/city-council.json",
   "homepage": "https://civilserviceusa.github.io/city-council-tx-san-antonio/",
