@@ -24,9 +24,9 @@ We have completed the following Data Collection for San Antonio, TX. [Watch Proj
 
 - [X] City Council Data Created
 - [X] City Photo Created
-- [ ] Councilor Headshots Created
-- [ ] Images Uploaded to CDN
-- [ ] GeoJSON File Created
+- [X] Councilor Headshots Created
+- [X] Images Uploaded to CDN
+- [X] GeoJSON File Created
 - [ ] Published NPM Package
 
 
